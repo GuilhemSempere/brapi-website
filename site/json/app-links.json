@@ -51,7 +51,7 @@
         "published": true,
         "image": "assets/images/apps/beegmac-snap.png",
         "url": "https://github.com/SouthGreenPlatform/beegmac",
-        "demo-url": "http://webtools.southgreen.fr/BrAPI/Beegmac/",
+        "demo-url": "http://webtools.southgreen.fr/BrAPI/Beegmac/?baseUrl=http://gigwa.southgreen.fr/gigwa/rest/Rice-MSU7/brapi/v1/",
         "source-url": "https://github.com/SouthGreenPlatform/beegmac",
         "doc-url": "http://webtools.southgreen.fr/BrAPI/Beegmac/jsdoc/",
         "title": "Beegmac",
